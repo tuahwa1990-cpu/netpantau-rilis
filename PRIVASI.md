@@ -12,6 +12,9 @@ NetPantau ialah apl pemantau trafik rangkaian untuk Android. Apl ini **tidak men
 - Cache DNS (hidup secara lalai, boleh dimatikan): jawapan DNS diingat dalam memori sahaja mengikut tempoh sahnya (paling lama 1 jam), tidak ditulis ke storan, dan tidak aktif dalam "Mod tanpa log".
 - Laporan privasi: hanya kiraan setiap aplikasi (jumlah pertanyaan dan sekatan) disimpan pada peranti, tanpa nama domain. Anda boleh set semula bila-bila masa.
 - Semak pautan: pautan yang anda tampal, atau kongsi kepada NetPantau melalui butang Kongsi, disemak pada peranti berbanding senarai yang telah dimuat turun. Pautan itu tidak dibuka, tidak disimpan dan tidak dihantar.
+- Penapis pautan (pilihan): jika anda menjadikan NetPantau pelayar lalai, pautan yang anda tekan disemak pada peranti dahulu, kemudian diserahkan kepada pelayar atau apl pilihan anda. Pautan tidak disimpan dan tidak dihantar.
+- Amaran pautan dalam mesej (pilihan, mati secara lalai): dengan akses notifikasi yang anda beri sendiri, NetPantau membaca teks notifikasi mesej baharu di peranti sahaja untuk mencari pautan dan ayat penipuan. Teks mesej tidak disimpan, tidak direkod dan tidak dihantar ke mana-mana; hanya cincangan ringkas disimpan dalam ingatan selama sejam supaya amaran tidak berulang.
+- Papan klip: dibaca hanya apabila anda menekan Tampal & semak atau jubin Semak pautan.
 - Tetapan anda (tema, kuota, senarai sekat/benarkan) disimpan pada peranti dan disulitkan dengan AES-256-GCM menggunakan kunci dalam Android Keystore.
 
 **Sambungan internet yang dibuat oleh apl**
