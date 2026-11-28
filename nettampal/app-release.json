@@ -1,6 +1,6 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "download_url": "https://github.com/tuahwa1990-cpu/netpantau-rilis/releases/download/nettampal/NetTampal.apk",
-  "created_at": "2026-11-23T03:52:04",
-  "description": "NetTampal: laman patch komuniti dibuka dalam apl supaya butang + menambah ke NetTampal"
+  "created_at": "2026-11-28T05:09:18",
+  "description": "NetTampal 0.1.7: ikut kemas kini Morphe Manager 2.8.0 (pemasangan lebih pantas, tunggu rangkaian, sokong Codeberg, pembetulan)"
 }
